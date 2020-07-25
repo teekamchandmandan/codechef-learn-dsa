@@ -67,6 +67,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+ .vscode/*
+
+
 ##### Android
 # Built application files
 *.apk
